@@ -50,6 +50,7 @@ Collate:
     'roclet-collate.R'
     'roclet-namespace.R'
     'roclet-rd.R'
+    'roclet-tests.R'
     'roclet-vignette.R'
     'roclet.R'
     'roxygen-tag.R'
@@ -64,4 +65,4 @@ Collate:
     'usage.R'
     'util-locale.R'
     'utils.R'
-RoxygenNote: 5.0.1
+RoxygenNote: 5.0.1.9000
